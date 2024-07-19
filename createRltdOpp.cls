@@ -17,3 +17,7 @@
             }
             
         }
+        if(!oppList.isEmpty()){
+            insert oppList;
+        }
+    }
